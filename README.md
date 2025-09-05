@@ -12,7 +12,7 @@
 <p align="left"> 
 <a href="https://www.linkedin.com/in/prithvi-raj-dixit-20a864220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prithvi-raj-dixit-20a864220" height="30" width="40" /></a>
 <a href="https://discuss.codechef.com/u/prithviraj25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://discuss.codechef.com/u/prithviraj25" height="30" width="40" /></a> 
-<a href="https://leetcode.com/u/PrithviRajDixit/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_Logo_1.png" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/PrithviRajDixit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original-wordmark.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/PrithviRajDixit" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Coding Ninjas" height="30" width="40" /></a>
 </p>
 
