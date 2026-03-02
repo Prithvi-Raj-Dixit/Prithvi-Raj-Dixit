@@ -35,13 +35,11 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-raj-dixit&layout=compact&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvi-raj-dixit&show_icons=true&locale=en&layout=compact" />
 </p>
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prithvi-raj-dixit&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prithvi-raj-dixit&show_icons=true&locale=en" />
 </p>
-
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithvi-raj-dixit&theme=tokyonight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvi-raj-dixit&" />
 </p>
