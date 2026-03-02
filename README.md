@@ -28,7 +28,7 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="35" height="35"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://rocm.docs.amd.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amd/amd-icon.svg" alt="rocm" width="35" height="35"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="35" height="35"/> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="35"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvi-raj-dixit&show_icons=true&locale=en&layout=compact" alt="prithvi-raj-dixit" /></p>
