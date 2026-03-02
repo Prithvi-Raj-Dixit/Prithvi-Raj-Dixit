@@ -34,8 +34,14 @@
   <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/robotframework/00285A" alt="robotframework" width="35" height="35"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvi-raj-dixit&show_icons=true&locale=en&layout=compact" alt="prithvi-raj-dixit" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-raj-dixit&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithvi-raj-dixit&show_icons=true&locale=en" alt="prithvi-raj-dixit" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=prithvi-raj-dixit&show_icons=true&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvi-raj-dixit&" alt="prithvi-raj-dixit" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithvi-raj-dixit&theme=tokyonight" />
+</p>
