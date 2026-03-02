@@ -34,10 +34,10 @@
   <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/robotframework/00285A" alt="robotframework" width="35" height="35"/> </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithvi-raj-dixit&theme=default" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prithvi-raj-dixit&theme=default" />
 </p>
 <p>
