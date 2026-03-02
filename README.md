@@ -30,7 +30,7 @@
   <a href="https://rocm.docs.amd.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amd/amd-icon.svg" alt="rocm" width="35" height="35"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="40" height="45"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.keysight.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/keysighttechnologies/FF0000" alt="keysight" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.keysight.com/" target="_blank" rel="noreferrer"> <img src="https://www.iottechexpo.com/global/wp-content/uploads/2025/10/Keysight-Logo-2-1.png" alt="keysight" width="100" height="40"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/robotframework/00285A" alt="robotframework" width="35" height="35"/> </a>
 </p>
 
