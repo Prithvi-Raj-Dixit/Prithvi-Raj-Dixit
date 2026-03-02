@@ -30,8 +30,8 @@
   <a href="https://rocm.docs.amd.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amd/amd-icon.svg" alt="rocm" width="35" height="35"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="50" height="60"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.keysight.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/keysight/keysight-ar21.svg" alt="keysight" width="80" height="35"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" alt="robotframework" width="35" height="35"/> </a>
+  <a href="https://www.keysight.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keysighttechnologies.svg" alt="keysight" width="90" height="35" style="filter: brightness(0) saturate(100%) invert(18%) sepia(87%) saturate(6353%) hue-rotate(352deg) brightness(98%) contrast(106%);"/> </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/robotframework.svg" alt="robotframework" width="35" height="35"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvi-raj-dixit&show_icons=true&locale=en&layout=compact" alt="prithvi-raj-dixit" /></p>
