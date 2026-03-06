@@ -32,9 +32,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.keysight.com/" target="_blank" rel="noreferrer"> <img src="https://www.iottechexpo.com/global/wp-content/uploads/2025/10/Keysight-Logo-2-1.png" alt="keysight" width="100" height="40"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/robotframework/00285A" alt="robotframework" width="35" height="35"/> </a>
-  <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/vllm-logo-text-light.png" alt="vLLM" width="70" height="35"/>
-</a>
+  <a href="https://openbenchmarking.org/test/pts/vllm" target="_blank" rel="noreferrer">
+  <img src="https://openbenchmarking.org/innhold/0d52c7594b32e5a2a678c18055304c49581be100" alt="vLLM Benchmarking" width="40" height="40"/>
+</a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="left">
