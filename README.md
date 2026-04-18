@@ -19,16 +19,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prithvi-raj-dixit-20a864220">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" style="margin-right:12px;"/>
   </a>
   <a href="https://discuss.codechef.com/u/prithviraj25">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30" style="margin-right:12px;"/>
   </a>
   <a href="https://leetcode.com/u/PrithviRajDixit/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="32" style="margin-right:12px;"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/PrithviRajDixit">
-    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width="32"/>
+    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width="32" style="margin-right:12px;"/>
   </a>
   <a href="https://huggingface.co/Prithvi-Raj-Dixit">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="30"/>
@@ -40,19 +40,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32"/>
-  <img src="https://www.vectorlogo.zone/logos/amd/amd-icon.svg" width="28"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/>
-  <img src="https://www.iottechexpo.com/global/wp-content/uploads/2025/10/Keysight-Logo-2-1.png" width="55"/>
-  <img src="https://cdn.simpleicons.org/robotframework/00285A" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin-right:10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" style="margin-right:10px;"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" style="margin-right:10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/amd/amd-icon.svg" width="28" style="margin-right:10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" width="32" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" style="margin-right:10px;"/>
+  <img src="https://www.iottechexpo.com/global/wp-content/uploads/2025/10/Keysight-Logo-2-1.png" width="55" style="margin-right:10px;"/>
+  <img src="https://cdn.simpleicons.org/robotframework/00285A" width="32" style="margin-right:10px;"/>
   <img src="pts_vllm.png" width="45"/>
 </p>
 
