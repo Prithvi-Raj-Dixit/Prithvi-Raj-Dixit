@@ -56,10 +56,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithvi-raj-dixit&theme=default" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prithvi-raj-dixit&theme=default" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prithvi-raj-dixit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvi-raj-dixit&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithvi-raj-dixit&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithvi-raj-dixit&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
