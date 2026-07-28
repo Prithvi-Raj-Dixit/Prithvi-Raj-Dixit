@@ -61,9 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithvi-raj-dixit&theme=github-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=prithvi-raj-dixit&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
