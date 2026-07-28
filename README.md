@@ -65,5 +65,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prithvi-raj-dixit&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=prithvi-raj-dixit&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
