@@ -13,9 +13,9 @@
 <img align="right" alt="Coding GIF" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 🚀 About Me
-- 💻 **Automation & Frameworks:** Learning and building automation frameworks with **Robot Framework**.  
-- 🔭 **Networking & AI:** Working on networking compute side and leveraging **LLMs**.  
-- 🌱 **Core Focus:** Deep diving into **Generative AI** and **Computer Networking (L2/L3)**.  
+- 💻 **Automation & Frameworks:** Learning and building automation using frameworks- Robot Framework, PyTest and using libraries- Paramiko, Pexpect.  
+- 🔭 **Networking** Working on compute side of networking and SONiC(Software for Open Networking in the Cloud).  
+- 🌱 **Technologies Worked:** Worked on ORV3 Rack validations for Powershelf and Console Server.  
 
 <br clear="right" />
 
