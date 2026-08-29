@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/prithvi-raj-dixit-20a864220" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="34" height="34" style="margin-right:12px;"/></a>
   <a href="https://leetcode.com/u/PrithviRajDixit/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="34" height="34" style="margin-right:12px;"/></a>
   <a href="https://www.naukri.com/code360/profile/PrithviRajDixit" target="_blank"><img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Code360" width="34" height="34" style="margin-right:12px;"/></a>
-  <a href="https://discuss.codechef.com/u/prithviraj25" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="34" height="34" style="margin-right:12px;"/></a>
+  <a href="https://www.codechef.com/users/prithviraj25" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="34" height="34" style="margin-right:12px;"/></a>
   <a href="https://huggingface.co/Prithvi-Raj-Dixit" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="HuggingFace" width="34" height="34"/></a>
 </p>
 
