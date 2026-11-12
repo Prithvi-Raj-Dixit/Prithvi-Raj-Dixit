@@ -16,8 +16,8 @@
 - 💻 **Automation & Frameworks:** Learning and building automation using frameworks- Robot Framework, PyTest and using libraries- Paramiko, Pexpect.  
 - 🔭 **Networking:** Working on compute side of networking and SONiC(Software for Open Networking in the Cloud).  
 - 🌱 **Technologies Worked:** 
-    -  Worked on ORV3 Rack validations for Powershelf(Redfish API, OpenBmc implementations) and Console Server(REST API).
-    -  Worked on Firmware(OpenBmc) and Diagnostics validations 
+    -  Working on ORV3 Rack validations for Powershelf(Redfish API, OpenBmc implementations) and Console Server(REST API).
+    -  Working on Firmware validations(DIAG,BIOS) and automation using Robot framework.
 
 <br clear="right" />
 
